@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | Python Developer**
 
-I am an M.Sc. Artificial Intelligence student specializing in building end-to-end ML pipelines, data processing architectures, and computer vision applications. I focus on writing clean, modular Python code to solve complex, data-heavy problems. 
+An AI Engineer and M.Sc. Artificial Intelligence candidate specializing in Python-driven machine learning pipelines, scalable backend APIs, and real-time data processing. I combine strong software engineering fundamentals with financial domain expertise to build robust, end-to-end AI applications.
 
 ### 🛠️ Core Tech Stack
 - **Languages:** Python, SQL
